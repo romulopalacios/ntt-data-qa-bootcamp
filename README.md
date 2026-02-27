@@ -9,6 +9,7 @@ Demostrar la evolución de mis habilidades técnicas y analíticas en el Asegura
 
 * **[01-Fundamentos-ISTQB](./01-Fundamentos-ISTQB):** Conceptos clave, los 7 principios de prueba y SDLC.
 * **[02-Diseno-de-Pruebas](./02-Diseno-de-Pruebas):** Diseño de casos de prueba, análisis de valores límite y reporte de defectos.
+* **[03-Pruebas-de-Servicios](./03-Pruebas-de-Servicios):** cubre desde la arquitectura orientada a servicios hasta la validación práctica de interfaces programables (APIs).
 
 ## 🛠️ Herramientas y Tecnologías
 * **Metodología:** Fundamentos ISTQB, BDD, Shift-Left Testing.
