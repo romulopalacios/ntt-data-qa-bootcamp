@@ -12,7 +12,7 @@ Demostrar la evolución de mis habilidades técnicas y analíticas en el Asegura
 
 ## 🛠️ Herramientas y Tecnologías
 * **Metodología:** Fundamentos ISTQB, BDD, Shift-Left Testing.
-* **Herramientas:** Git, GitHub, [Añade aquí Postman, Selenium, Python, etc., conforme las uses].
+* **Herramientas:** Git, GitHub, Java.
 
 ---
 *Este repositorio es un portafolio vivo y se actualizará diariamente durante el bootcamp.*
